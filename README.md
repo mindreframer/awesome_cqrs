@@ -1,11 +1,7 @@
 ### AwesomeCqrs
-  - [GitHub - johnbywater/eventsourcing: Event sourcing in Python](https://github.com/johnbywater/eventsourcing)
   - [GitHub - SneakyPeet/EasyEventSourcing: A Simple Event Sourcing Example Application](https://github.com/SneakyPeet/EasyEventSourcing)
   - [GitHub - mastoj/LibAAS: Another sample project showing event sourcing in F#](https://github.com/mastoj/LibAAS)
   - [GitHub - arobson/sourcery: Event sourcing library. Does not contain actual magics.](https://github.com/arobson/sourcery/)
-  - [GitHub - iancooper/Paramore: Command Dispatcher, Processor, and Distributed Task Queue](https://github.com/iancooper/Paramore)
-  - [GitHub - ianunruh/fountain-redis: Redis components for the Fountain CQRS/ES framework](https://github.com/ianunruh/fountain-redis)
-  - [GitHub - ianunruh/fountain: Modular CQRS and event sourcing framework for Ruby](https://github.com/ianunruh/fountain)
   - [GitHub - capitalone/cqrs-manager-for-distributed-reactive-services: Experimental CQRS and Event Sourcing service](https://github.com/capitalone/cqrs-manager-for-distributed-reactive-services)
   - [GitHub - corker/FluentProjections: Fluent Projections provide a configurable hub that handle events and map them to database projection tables (read models).](https://github.com/corker/FluentProjections)
   - [GitHub - smariussorin/EventSourcedMicroservices: Microservices Architecture with Event Sourcing and CQRS using Node.JS](https://github.com/smariussorin/EventSourcedMicroservices)
@@ -15,8 +11,6 @@
   - [GitHub - leandrocp/awesome-cqrs-event-sourcing: A curated list of awesome CQRS and Event Sourcing things](https://github.com/leandrocp/awesome-cqrs-event-sourcing)
   - [GitHub - 2020IP/TwentyTwenty.DomainDriven: DDD CQRS Event Sourcing Abstraction Library](https://github.com/2020IP/TwentyTwenty.DomainDriven)
   - [GitHub - QuickenLoans/MessageRouter: A CQRS (Event-driven) message router in F#](https://github.com/QuickenLoans/MessageRouter)
-  - [GitHub - bryanhunter/cqrs-with-erlang: Resources for the CQRS with Erlang talk](https://github.com/bryanhunter/cqrs-with-erlang)
-  - [GitHub - cavalle/banksimplistic: Exploring CQRS, Event Sourcing and DDD with Ruby](https://github.com/cavalle/banksimplistic)
   - [GitHub - jonsequitur/Alluvial: Stream your data from any source. Build projections and aggregations. Parallelize. Distribute. Replay.](https://github.com/jonsequitur/Alluvial)
 
 
@@ -44,11 +38,23 @@ Discussions:
   - [Github - robertreppel/hist: A simple event store for event sourcing in Go.](https://github.com/robertreppel/hist)
 
 
+### Python
+  - [GitHub - iancooper/Paramore: Command Dispatcher, Processor, and Distributed Task Queue](https://github.com/iancooper/Paramore)
+  - [GitHub - johnbywater/eventsourcing: Event sourcing in Python](https://github.com/johnbywater/eventsourcing)
+
+
+### Ruby
+  - [GitHub - ianunruh/fountain-redis: Redis components for the Fountain CQRS/ES framework](https://github.com/ianunruh/fountain-redis)
+  - [GitHub - ianunruh/fountain: Modular CQRS and event sourcing framework for Ruby](https://github.com/ianunruh/fountain)
+  - [GitHub - cavalle/banksimplistic: Exploring CQRS, Event Sourcing and DDD with Ruby](https://github.com/cavalle/banksimplistic)
+
+
 ### Golang
   - https://medium.com/@Oskarr3/implementing-cqrs-using-kafka-and-sarama-library-in-golang-da7efa3b77fe#.7gvhtgyf8
 
 
-### Elixir
+### Elixir / Erlang
+  - [GitHub - bryanhunter/cqrs-with-erlang: Resources for the CQRS with Erlang talk](https://github.com/bryanhunter/cqrs-with-erlang)
   - [CQRS with Elixir and Phoenix - 2015/11](http://jfcloutier.github.io/jekyll/update/2015/11/04/cqrs_elixir_phoenix.html)
   - [GitHub - CrowdHailer/event-sourcing.elixir: Event sourcing test project based on the Scala example in the Fun.CQRS library](https://github.com/CrowdHailer/event-sourcing.elixir)
 - [EventStore HTTP client featuring subscriptions (competing consumers) and other celebrities.](https://github.com/tbug/elixir-eventstore-http-client)
@@ -59,4 +65,3 @@ Discussions:
   - [GitHub - ericmj/true_story: Make your tests tell a story](https://github.com/ericmj/true_story)
   - [GitHub - antipax/gen_state_machine: An idiomatic Elixir wrapper for gen_statem in OTP 19 (and above).](https://github.com/antipax/gen_state_machine)
   - [GitHub - bernardolins/fake_server: FakeServer is a simple HTTP server used to mock external services responses on your tests.](https://github.com/bernardolins/fake_server)
-
