@@ -1,0 +1,7 @@
+https://github.com/adrai/node-cqrs-domain.git
+https://github.com/RadicalFx/Radical.CQRS.git
+https://github.com/strongtyped/fun-cqrs.git
+https://github.com/eventflow/EventFlow.git
+https://github.com/Thorium/SimpleCQRS-FSharp.git
+https://github.com/JamesShuttler/CQRSStarterPack.git
+https://github.com/cer/event-sourcing-examples.git

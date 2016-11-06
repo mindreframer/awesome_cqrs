@@ -1,0 +1,2 @@
+defmodule AwesomeCqrs do
+end
