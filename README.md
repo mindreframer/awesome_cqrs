@@ -8,6 +8,7 @@
 ### Discussions:
   - [DDD, Event Sourcing, and CQRS Tutorial | Hacker News](https://news.ycombinator.com/item?id=10189031)
   - [Which Message / Command / Event Bus to use · Issue #12 · webdevilopers](https://github.com/webdevilopers/php-ddd/issues/12)
+  - [CQRS Examples and Screencasts - stackoverflow](http://stackoverflow.com/questions/5043513/cqrs-examples-and-screencasts)
 
 
 ### Slides
@@ -48,6 +49,9 @@
   - [Decoupling applications with Domains Events - 2012/08](http://www.whitewashing.de/2012/08/25/decoupling_applications_with_domain_events.html)
   - http://labs.qandidate.com/blog/2015/07/08/replaying-event-streams-with-broadway/
   - http://labs.qandidate.com/blog/2015/10/07/asynchronous-event-processing-with-broadway-using-rabbitmq/
+
+
+  - [Minimal decoupled subsystems in your rails app - 2016/09](http://blog.arkency.com/2016/09/minimal-decoupled-subsystems-of-your-rails-app/)
 
 
 ### Good documentation
@@ -110,6 +114,7 @@
   - [GitHub - johnbywater/eventsourcing: Event sourcing in Python](https://github.com/johnbywater/eventsourcing)
 
 ### Ruby
+  - [krisleech/wisper: A micro library providing Ruby objects with Publish-Subscribe capabilities](https://github.com/krisleech/wisper)
   - [GitHub - arkency/aggregate_root](https://github.com/arkency/aggregate_root)
   - [zilverline/sequent: CQRS & event sourcing framework for Ruby](https://github.com/zilverline/sequent)
   - [GitHub - ianunruh/fountain-redis: Redis components for the Fountain CQRS/ES framework](https://github.com/ianunruh/fountain-redis)
@@ -147,11 +152,11 @@
 
 ## .NET
 
-### F#
+### F-Sharp
   - [GitHub - mastoj/LibAAS: Another sample project showing event sourcing in F#](https://github.com/mastoj/LibAAS)
   - [thinkbeforecoding/FsUno: Event sourcing implementation sample in F#](https://github.com/thinkbeforecoding/FsUno)
 
-### C#
+### C-Sharp
   - [GitHub - eventflow/EventFlow: Async/await first CQRS+ES and DDD framework for .NET](https://github.com/eventflow/EventFlow/)
   - [GitHub - SneakyPeet/EasyEventSourcing: A Simple Event Sourcing Example Application](https://github.com/SneakyPeet/EasyEventSourcing)
   - [GitHub - corker/FluentProjections: Fluent Projections provide a configurable hub that handle events and map them to database projection tables (read models).](https://github.com/corker/FluentProjections)
