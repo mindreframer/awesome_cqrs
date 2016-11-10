@@ -23,6 +23,7 @@
   - [A curated list of awesome CQRS and Event Sourcing things](https://github.com/leandrocp/awesome-cqrs-event-sourcing)
   - [GitHub - leandrocp/awesome-cqrs-event-sourcing: A curated list of awesome CQRS and Event Sourcing things](https://github.com/leandrocp/awesome-cqrs-event-sourcing)
   - [mlomnicki/ddd-resources: ](https://github.com/mlomnicki/ddd-resources)
+  - [valentjedi/ddd-dynamic: Domain Driven Design in Python, Ruby and other dynamic languages resources](https://github.com/valentjedi/ddd-dynamic)
 
 
 ### Notes
@@ -50,8 +51,24 @@
   - http://labs.qandidate.com/blog/2015/07/08/replaying-event-streams-with-broadway/
   - http://labs.qandidate.com/blog/2015/10/07/asynchronous-event-processing-with-broadway-using-rabbitmq/
 
-
+### Ruby specific:
   - [Minimal decoupled subsystems in your rails app - 2016/09](http://blog.arkency.com/2016/09/minimal-decoupled-subsystems-of-your-rails-app/)
+  - [From ActiveRecord to EventSourcing - 2014/05](http://www.slideshare.net/emadb/wroclove-rb)
+  - [The journey to Rails and TDD - 2016/05](https://medium.com/planet-arkency/the-journey-to-rails-and-tdd-da639d921e17#.jh11nv9w7)
+
+
+### Workshop
+  - http://insights.workshop14.io/2015/07/14/domain-driven-design-introduction.html
+  - http://insights.workshop14.io/2015/07/15/value-objects-in-ruby.html
+  - http://insights.workshop14.io/2015/07/23/application-border-control-with-ruby-form-objects.html
+  - http://insights.workshop14.io/2015/08/02/tackling-god-objects-in-ruby.html
+  - http://insights.workshop14.io/2015/08/09/untangle-your-domain-model-from-the-database.html
+  - http://insights.workshop14.io/2015/08/16/introducing-interactors-to-represent-getting-stuff-done.html
+  - http://insights.workshop14.io/2015/08/20/domain-driven-design-where-the-real-value-lies.html
+
+
+
+
 
 
 ### Good documentation
@@ -157,6 +174,7 @@
   - [thinkbeforecoding/FsUno: Event sourcing implementation sample in F#](https://github.com/thinkbeforecoding/FsUno)
 
 ### C-Sharp
+  - [klejeune/teclyn: A C#/Asp.Net production-ready Framework using CQRS and Event-Sourcing](https://github.com/klejeune/teclyn)
   - [GitHub - eventflow/EventFlow: Async/await first CQRS+ES and DDD framework for .NET](https://github.com/eventflow/EventFlow/)
   - [GitHub - SneakyPeet/EasyEventSourcing: A Simple Event Sourcing Example Application](https://github.com/SneakyPeet/EasyEventSourcing)
   - [GitHub - corker/FluentProjections: Fluent Projections provide a configurable hub that handle events and map them to database projection tables (read models).](https://github.com/corker/FluentProjections)
