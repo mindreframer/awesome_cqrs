@@ -44,6 +44,7 @@
   - [Entry-level, synchronous & transactional event sourcing](https://softwaremill.com/entry-level-event-sourcing/) - alternative, consistent ES architecture
   - [Scaling Microservices with an Event Stream | ThoughtWorks](https://www.thoughtworks.com/insights/blog/scaling-microservices-event-stream)
   - [Scalable Microservices through Messaging – Red Hat Developer Blog](http://developers.redhat.com/blog/2016/05/26/scalable-microservices-through-messaging/)
+  - [Event Sourcing from the Trenches - 2016/06](https://www.linkedin.com/pulse/event-sourcing-from-trenches-dennis-doomen?articleId=8422486075574796264)
   - [Pragmatic CQRS: Verifying username uniqueness when registering a new user // Tom's ramblings - 2011/11](http://tojans.me/blog/2011/11/15/pragmatic-cqrs-verifying-username-uniqueness-when-registering-a-new-user/)
   - [Building Marten’s Async Daemon | The Shade Tree Developer](https://jeremydmiller.com/2016/08/31/building-martens-async-daemon/)
   - [Example application for my #qconsf presentation about building microservices with event sourcing and CQRS | plain old objects - 2015/01](https://plainoldobjects.com/2015/01/04/example-application-for-my-qconsf-presentation-about-building-microservices-with-event-sourcing-and-cqrs/)
@@ -183,3 +184,8 @@
   - [GitHub - Elders/Cronus: Cronus is a lightweight framework for dispatching and receiving messages between microservices with DDD/CQRS in mind](https://github.com/Elders/Cronus)
   - [GitHub - 2020IP/TwentyTwenty.DomainDriven: DDD CQRS Event Sourcing Abstraction Library](https://github.com/2020IP/TwentyTwenty.DomainDriven)
   - [GitHub - jonsequitur/Alluvial: Stream your data from any source. Build projections and aggregations. Parallelize. Distribute. Replay.](https://github.com/jonsequitur/Alluvial)
+
+
+
+### EventStore (geteventstore.com)
+  - https://sqlbits.com/Sessions/Event14/EventStore-a_streaming_database_for_CQRS_and_event_sourcin
