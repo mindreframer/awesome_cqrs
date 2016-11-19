@@ -38,7 +38,7 @@
 ### Longer articles
   - [Buzz-kills Chronicles - Part 1: CQRS - 2016/09](http://blog.bsg.co.za/2016/09/16/buzz-kill-chronicles-cqrs.html)
   - [Galeria-Kaufhof/web-eventsourcing: Event sourcing for the Web](https://github.com/Galeria-Kaufhof/web-eventsourcing/blob/master/draft-kiessling-web-eventsourcing-00.md)
-  - [GitHub - redhead/diploma-thesis](https://github.com/redhead/diploma-thesis), quite good!
+
   - [DDD, CQRS & ES! · GitHub](https://gist.github.com/rasheedamir/2f18c6a931fa65343f1d) --- very detailed!
   - https://github.com/Arnauld/CQRS-Ramblings/blob/master/doc/article/cqrs-article.mdown --
   - [Entry-level, synchronous & transactional event sourcing](https://softwaremill.com/entry-level-event-sourcing/) - alternative, consistent ES architecture
@@ -51,6 +51,11 @@
   - [Decoupling applications with Domains Events - 2012/08](http://www.whitewashing.de/2012/08/25/decoupling_applications_with_domain_events.html)
   - http://labs.qandidate.com/blog/2015/07/08/replaying-event-streams-with-broadway/
   - http://labs.qandidate.com/blog/2015/10/07/asynchronous-event-processing-with-broadway-using-rabbitmq/
+
+### Academic
+  - [(german) Testen von Domain Modellen anhand von Commands und Events - Bachelor Theses](https://www.fernuni-hagen.de/imperia/md/content/ps/bachelor-boehm.pdf)
+  - [GitHub - redhead/diploma-thesis](https://github.com/redhead/diploma-thesis), quite good!
+
 
 ### Ruby specific:
   - [Minimal decoupled subsystems in your rails app - 2016/09](http://blog.arkency.com/2016/09/minimal-decoupled-subsystems-of-your-rails-app/)
@@ -66,8 +71,6 @@
   - http://insights.workshop14.io/2015/08/09/untangle-your-domain-model-from-the-database.html
   - http://insights.workshop14.io/2015/08/16/introducing-interactors-to-represent-getting-stuff-done.html
   - http://insights.workshop14.io/2015/08/20/domain-driven-design-where-the-real-value-lies.html
-
-
 
 
 
