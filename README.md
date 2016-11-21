@@ -55,6 +55,7 @@
 ### Academic
   - [(german) Testen von Domain Modellen anhand von Commands und Events - Bachelor Theses](https://www.fernuni-hagen.de/imperia/md/content/ps/bachelor-boehm.pdf)
   - [GitHub - redhead/diploma-thesis](https://github.com/redhead/diploma-thesis), quite good!
+  - [Enabling retroactive computing through event sourcing - 2016/09 - Master theses](https://oparu.uni-ulm.de/xmlui/handle/123456789/4150)
 
 
 ### Ruby specific:
