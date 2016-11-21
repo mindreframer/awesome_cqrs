@@ -34,6 +34,10 @@
   - [Rough Notes about CQRS and ES · GitHub](https://gist.github.com/jaceklaskowski/d267bf4176822293e95e)
   - [Greg Young's CQRS Class - Random Notes - 2011](https://gist.github.com/briandonahue/1204748)
 
+  - [Notes from DDD & CQRS training - day 1 - 2011](http://marcinderylo.blogspot.de/2011/04/notes-from-ddd-cqrs-training-day-1.html)
+  - [Notes from DDD & CQRS training - day 2 - 2011](http://marcinderylo.blogspot.de/2011/04/notes-from-ddd-cqrs-training-day-2.html)
+  - [Notes from DDD & CQRS training - day 3 - 2011](http://marcinderylo.blogspot.de/2011/04/notes-from-ddd-cqrs-training-day-3.html)
+
 
 ### Longer articles
   - [Buzz-kills Chronicles - Part 1: CQRS - 2016/09](http://blog.bsg.co.za/2016/09/16/buzz-kill-chronicles-cqrs.html)
