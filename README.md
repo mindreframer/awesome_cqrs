@@ -56,6 +56,7 @@
   - [(german) Testen von Domain Modellen anhand von Commands und Events - Bachelor Theses](https://www.fernuni-hagen.de/imperia/md/content/ps/bachelor-boehm.pdf)
   - [GitHub - redhead/diploma-thesis](https://github.com/redhead/diploma-thesis), quite good!
   - [Enabling retroactive computing through event sourcing - 2016/09 - Master theses](https://oparu.uni-ulm.de/xmlui/handle/123456789/4150)
+  - [Correctness for CQRS Systems - Elicitation and validation - 2012 - Master of Science Thesis](https://www.nada.kth.se/utbildning/grukth/exjobb/rapportlistor/2012/rapporter12/hakim_kamil_12072.pdf)
 
 
 ### Ruby specific:
