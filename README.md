@@ -3,6 +3,7 @@
 
 ### Videos
   - [A deep look into the Event Store by Greg Young at OreDev 2012 at Malmo, Sweden - Every](http://www.everytalk.tv/talks/2238-OreDev-A-deep-look-into-the-Event-Store)
+  - [Event Sourcing and DDD with F# - Jérémie Chassaing - 2015](https://vimeo.com/131632601)
 
 
 ### Discussions:
@@ -57,6 +58,7 @@
   - http://labs.qandidate.com/blog/2015/10/07/asynchronous-event-processing-with-broadway-using-rabbitmq/
 
 ### Academic
+  - [Domain-Driven Design mit Ruby on Rails - Bachelor Theses - 2015](http://edoc.sub.uni-hamburg.de/haw/volltexte/2016/3220/pdf/BA_Zender.pdf) - quite complete reference implementation of DDD concepts with Ruby / Rails
   - [(german) Testen von Domain Modellen anhand von Commands und Events - Bachelor Theses](https://www.fernuni-hagen.de/imperia/md/content/ps/bachelor-boehm.pdf)
   - [GitHub - redhead/diploma-thesis](https://github.com/redhead/diploma-thesis), quite good!
   - [Enabling retroactive computing through event sourcing - 2016/09 - Master theses](https://oparu.uni-ulm.de/xmlui/handle/123456789/4150)
