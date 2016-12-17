@@ -63,6 +63,12 @@
   - [GitHub - redhead/diploma-thesis](https://github.com/redhead/diploma-thesis), quite good!
   - [Enabling retroactive computing through event sourcing - 2016/09 - Master theses](https://oparu.uni-ulm.de/xmlui/handle/123456789/4150)
   - [Correctness for CQRS Systems - Elicitation and validation - 2012 - Master of Science Thesis](https://www.nada.kth.se/utbildning/grukth/exjobb/rapportlistor/2012/rapporter12/hakim_kamil_12072.pdf)
+  - [DISTRIBUTED DOCUMENT MIGRATION BETWEEN ERP SYSTEMS BY MEANS OF MESSAGING AND EVENT SOURCING - 2013](https://www.doria.fi/bitstream/handle/10024/94341/Distributed%20document%20migration%20between%20ERP%20systems%20by%20means%20of%20messaging%20and%20event%20sourcing.pdf?sequence=2)
+  - [Using CQRS Pattern for Improving Performances in Medical Information Systems](http://ceur-ws.org/Vol-1036/p86-Rajkovic.pdf)
+  - [Practitioners’ view on command query responsibility segregation - 2014/08](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.843.2533&rep=rep1&type=pdf)
+  - [Maintainable architecture in project business analysis software - 2015](https://aaltodoc.aalto.fi/bitstream/handle/123456789/21038/master_Haapaniemi_Tuukka_2016.pdf?sequence=1)
+  - [Variability in Multi-Tenant Enterprise Software - 2014/12](http://dspace.library.uu.nl/bitstream/handle/1874/303797/Kabbedijk.pdf;jsessionid=45D0CA7EB1871794921B50F07B404CA2?sequence=1)
+  - [Designing a Business Platform using Microservices. - 2016/03](https://wwwmatthes.in.tum.de/file/i18zc136pl5a/Sebis-Public-Website/-/Master-s-Thesis-Rajendra-Kharbuja/Thesis_Report_Final.pdf)
 
 
 ### Ruby specific:
