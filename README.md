@@ -69,7 +69,10 @@
   - [Maintainable architecture in project business analysis software - 2015](https://aaltodoc.aalto.fi/bitstream/handle/123456789/21038/master_Haapaniemi_Tuukka_2016.pdf?sequence=1)
   - [Variability in Multi-Tenant Enterprise Software - 2014/12](http://dspace.library.uu.nl/bitstream/handle/1874/303797/Kabbedijk.pdf;jsessionid=45D0CA7EB1871794921B50F07B404CA2?sequence=1)
   - [Designing a Business Platform using Microservices. - 2016/03](https://wwwmatthes.in.tum.de/file/i18zc136pl5a/Sebis-Public-Website/-/Master-s-Thesis-Rajendra-Kharbuja/Thesis_Report_Final.pdf)
-
+  - [CLOUD FRAMEWORK ON INFRASTRUCTURE AS A SERVICE - 2013](https://dspace.vutbr.cz/bitstream/handle/11012/53428/14457.pdf?sequence=1)
+  - [Towards cloud application architectural patterns: transfer, evolution, innovation and oblivion - 2014](http://www.diva-portal.se/smash/get/diva2:843924/FULLTEXT01.pdf)
+  - [The Dark Side of Event Sourcing: Managing Data Conversion](http://files.movereem.nl/2017saner-eventsourcing.pdf)
+  - [ИСПОЛЬЗОВАНИЕ ТЕХНОЛОГИИ ПРОГРАММИРОВАНИЯ COMMAND QUERY RESPONSIBILITY SEGREGATION (CQRS) ДЛЯ РАСПРЕДЕЛЕННЫХ ИНФОРМАЦИОННЫХ СЕРВИСОВ (russian) - 2015](http://cyberleninka.ru/article/n/ispolzovanie-tehnologii-programmirovaniya-command-query-responsibility-segregation-cqrs-dlya-raspredelennyh-informatsionnyh)
 
 ### Ruby specific:
   - [Minimal decoupled subsystems in your rails app - 2016/09](http://blog.arkency.com/2016/09/minimal-decoupled-subsystems-of-your-rails-app/)
