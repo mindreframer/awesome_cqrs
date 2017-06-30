@@ -41,6 +41,7 @@
 
 
 ### Longer articles
+  - [Sanity Checking an Event Sourced System - 2017/03](http://www.strauss.io/blog/2017-sanity-checking-an-event-sourced-system.html)
   - [Buzz-kills Chronicles - Part 1: CQRS - 2016/09](http://blog.bsg.co.za/2016/09/16/buzz-kill-chronicles-cqrs.html)
   - [Galeria-Kaufhof/web-eventsourcing: Event sourcing for the Web](https://github.com/Galeria-Kaufhof/web-eventsourcing/blob/master/draft-kiessling-web-eventsourcing-00.md)
 
