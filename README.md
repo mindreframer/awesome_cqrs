@@ -13,6 +13,8 @@
 
 
 ### Slides
+  - [DDDEurope 2018 - Event Sourcing After Launch (2018/02)](https://speakerdeck.com/overeemm/dddeurope-2018-event-sourcing-after-launch)
+  - [TOTAL RECALL - The application that never forgets - 2018/01](https://speakerdeck.com/hollodotme/total-recall-the-application-that-never-forgets-1)
   - [CQRS & Event Sourcing in the wild (Scotla](https://speakerdeck.com/mrook/cqrs-and-event-sourcing-in-the-wild-scotlandphp-2016?slide=54)
   - [Introduction to CQRS / ES with Rails – Mirosław Pragłowski](http://praglowski.com/presentations/cqrses/drug/#/7)
   - [CQRS & EVENTSOURCING DISCOVERY - Workshop](http://devlyon.fr/mixter/)
@@ -44,6 +46,13 @@
   - [Sanity Checking an Event Sourced System - 2017/03](http://www.strauss.io/blog/2017-sanity-checking-an-event-sourced-system.html)
   - [Buzz-kills Chronicles - Part 1: CQRS - 2016/09](http://blog.bsg.co.za/2016/09/16/buzz-kill-chronicles-cqrs.html)
   - [Galeria-Kaufhof/web-eventsourcing: Event sourcing for the Web](https://github.com/Galeria-Kaufhof/web-eventsourcing/blob/master/draft-kiessling-web-eventsourcing-00.md)
+
+
+  - [Projection Building Blocks: What you'll need to build projections - 2018/01](https://barryosull.com/blog/projection-building-blocks-what-you-ll-need-to-build-projections)
+  - [Immediate Consistency in Event Sourcing - 2017/09](https://barryosull.com/blog/immediate-consistency-in-event-sourcing)
+  - [Event Sourcing: What it is and why it's awesome - 2017/08](https://dev.to/barryosull/event-sourcing-what-it-is-and-why-its-awesome)
+
+  - [12 Things You Should Know About Event Sourcing - 2017/04](http://blog.leifbattermann.de/2017/04/21/12-things-you-should-know-about-event-sourcing/)
 
   - [DDD, CQRS & ES! · GitHub](https://gist.github.com/rasheedamir/2f18c6a931fa65343f1d) --- very detailed!
   - https://github.com/Arnauld/CQRS-Ramblings/blob/master/doc/article/cqrs-article.mdown --
