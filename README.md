@@ -1,6 +1,9 @@
 # AwesomeCqrs
 
 
+
+
+
 ### Videos
   - [A deep look into the Event Store by Greg Young at OreDev 2012 at Malmo, Sweden - Every](http://www.everytalk.tv/talks/2238-OreDev-A-deep-look-into-the-Event-Store)
   - [Event Sourcing and DDD with F# - Jérémie Chassaing - 2015](https://vimeo.com/131632601)
@@ -219,3 +222,10 @@
 
 ### EventStore (geteventstore.com)
   - https://sqlbits.com/Sessions/Event14/EventStore-a_streaming_database_for_CQRS_and_event_sourcin
+
+
+
+
+
+### Services
+  - [serialized.io - APIS FOR BUILDING BUSINESS EVENT-DRIVEN APPLICATIONS - ](https://serialized.io/api/)
