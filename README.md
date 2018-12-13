@@ -126,6 +126,7 @@
   - [GitHub - bryanhunter/cqrs-with-erlang: Resources for the CQRS with Erlang talk](https://github.com/bryanhunter/cqrs-with-erlang)
   - [CQRS with Elixir and Phoenix - 2015/11](http://jfcloutier.github.io/jekyll/update/2015/11/04/cqrs_elixir_phoenix.html)
   - [GitHub - CrowdHailer/event-sourcing.elixir: Event sourcing test project based on the Scala example in the Fun.CQRS library](https://github.com/CrowdHailer/event-sourcing.elixir)
+  - [Github - andreapavoni/disco](https://github.com/andreapavoni/disco) - Simple, opinionated yet flexible library to build CQRS/ES driven systems 🕺
 - [EventStore HTTP client featuring subscriptions (competing consumers) and other celebrities.](https://github.com/tbug/elixir-eventstore-http-client)
   - [CQRS Eventsourcing Engine - Elixir](https://github.com/work-capital/elixir-cqrs-eventsourcing)
   - [DDD/CQRS/ES/NoSQL and functional programming - General Programming / General Chat - Elixir Forum](https://elixirforum.com/t/ddd-cqrs-es-nosql-and-functional-programming/519/2)
